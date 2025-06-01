@@ -1,0 +1,137 @@
+{ "skeleton": { "images": "C:/Users/tiklk/OneDrive/Изображения/art/2025/gene delta/Game materials/images/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "neck", "bone": "root", "attachment": "neck" },
+	{ "name": "head base", "bone": "root", "attachment": "head base" },
+	{ "name": "brows", "bone": "root", "attachment": "brows" },
+	{ "name": "eyes closed", "bone": "root", "attachment": "eyes closed" },
+	{ "name": "Layer 34", "bone": "root", "attachment": "Layer 34" },
+	{ "name": "eyeris", "bone": "root", "attachment": "eyeris" },
+	{ "name": "eyes", "bone": "root", "attachment": "eyes" },
+	{ "name": "bioshoulder", "bone": "root", "attachment": "bioshoulder" },
+	{ "name": "bioarm", "bone": "root", "attachment": "bioarm" },
+	{ "name": "biohand", "bone": "root", "attachment": "biohand" },
+	{ "name": "shoulder clothes L", "bone": "root", "attachment": "shoulder clothes L" },
+	{ "name": "Leg High L", "bone": "root", "attachment": "Leg High L" },
+	{ "name": "Leg Low L", "bone": "root", "attachment": "Leg Low L" },
+	{ "name": "Foot L", "bone": "root", "attachment": "Foot L" },
+	{ "name": "hips", "bone": "root", "attachment": "hips" },
+	{ "name": "Leg High R", "bone": "root", "attachment": "Leg High R" },
+	{ "name": "leg strap", "bone": "root", "attachment": "leg strap" },
+	{ "name": "leg gun", "bone": "root", "attachment": "leg gun" },
+	{ "name": "Leg Low R", "bone": "root", "attachment": "Leg Low R" },
+	{ "name": "Foot R", "bone": "root", "attachment": "Foot R" },
+	{ "name": "Foot R 2", "bone": "root", "attachment": "Foot R 2" },
+	{ "name": "torso", "bone": "root", "attachment": "torso" },
+	{ "name": "torso shield", "bone": "root", "attachment": "torso shield" },
+	{ "name": "shoulder pad L", "bone": "root", "attachment": "shoulder pad L" },
+	{ "name": "turtleneck", "bone": "root", "attachment": "turtleneck" },
+	{ "name": "zipper", "bone": "root", "attachment": "zipper" },
+	{ "name": "shoulder", "bone": "root", "attachment": "shoulder" },
+	{ "name": "arm", "bone": "root", "attachment": "arm" },
+	{ "name": "hand", "bone": "root", "attachment": "hand" },
+	{ "name": "shoulder clothes R", "bone": "root", "attachment": "shoulder clothes R" },
+	{ "name": "shoulder pad R", "bone": "root", "attachment": "shoulder pad R" }
+],
+"skins": {
+	"default": {
+		"neck": {
+			"neck": { "x": 379, "y": -288.5, "width": 142, "height": 173 }
+		},
+		"head base": {
+			"head base": { "x": 358, "y": -153.5, "width": 318, "height": 295 }
+		},
+		"brows": {
+			"brows": { "x": 452.5, "y": -128, "width": 115, "height": 22 }
+		},
+		"eyes closed": {
+			"eyes closed": { "x": 459.5, "y": -167.5, "width": 91, "height": 15 }
+		},
+		"Layer 34": {
+			"Layer 34": { "x": 460.5, "y": -162.5, "width": 83, "height": 21 }
+		},
+		"eyeris": {
+			"eyeris": { "x": 464.5, "y": -162, "width": 63, "height": 20 }
+		},
+		"eyes": {
+			"eyes": { "x": 459.5, "y": -161, "width": 99, "height": 24 }
+		},
+		"bioshoulder": {
+			"bioshoulder": { "x": 597, "y": -651, "width": 150, "height": 520 }
+		},
+		"bioarm": {
+			"bioarm": { "x": 704, "y": -971.5, "width": 346, "height": 419 }
+		},
+		"biohand": {
+			"biohand": { "x": 816, "y": -1206.5, "width": 312, "height": 355 }
+		},
+		"shoulder clothes L": {
+			"shoulder clothes L": { "x": 618, "y": -559.5, "width": 224, "height": 357 }
+		},
+		"Leg High L": {
+			"Leg High L": { "x": 547, "y": -1252.5, "width": 206, "height": 611 }
+		},
+		"Leg Low L": {
+			"Leg Low L": { "x": 497, "y": -1704.5, "width": 196, "height": 515 }
+		},
+		"Foot L": {
+			"Foot L": { "x": 560.5, "y": -2009.5, "width": 307, "height": 235 }
+		},
+		"hips": {
+			"hips": { "x": 474.5, "y": -949, "width": 353, "height": 272 }
+		},
+		"Leg High R": {
+			"Leg High R": { "x": 380, "y": -1234, "width": 224, "height": 600 }
+		},
+		"leg strap": {
+			"leg strap": { "x": 387.5, "y": -1152.5, "width": 207, "height": 105 }
+		},
+		"leg gun": {
+			"leg gun": { "x": 320, "y": -1190, "width": 158, "height": 318 }
+		},
+		"Leg Low R": {
+			"Leg Low R": { "x": 286, "y": -1725, "width": 244, "height": 584 }
+		},
+		"Foot R": {
+			"Foot R": { "x": 268, "y": -2044, "width": 196, "height": 230 }
+		},
+		"Foot R 2": {
+			"Foot R 2": { "x": 339, "y": -2026, "width": 300, "height": 230 }
+		},
+		"torso": {
+			"torso": { "x": 373.5, "y": -591, "width": 535, "height": 524 }
+		},
+		"torso shield": {
+			"torso shield": { "x": 422.5, "y": -553.5, "width": 433, "height": 429 }
+		},
+		"shoulder pad L": {
+			"shoulder pad L": { "x": 629, "y": -431.5, "width": 142, "height": 159 }
+		},
+		"turtleneck": {
+			"turtleneck": { "x": 402.5, "y": -331, "width": 243, "height": 82 }
+		},
+		"zipper": {
+			"zipper": { "x": 424, "y": -329, "width": 50, "height": 70 }
+		},
+		"shoulder": {
+			"shoulder": { "x": 114, "y": -643.5, "width": 204, "height": 401 }
+		},
+		"arm": {
+			"arm": { "x": 103, "y": -937, "width": 184, "height": 388 }
+		},
+		"hand": {
+			"hand": { "x": 167, "y": -1144, "width": 146, "height": 202 }
+		},
+		"shoulder clothes R": {
+			"shoulder clothes R": { "x": 117.5, "y": -590, "width": 223, "height": 358 }
+		},
+		"shoulder pad R": {
+			"shoulder pad R": { "x": 133.5, "y": -466, "width": 175, "height": 182 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
