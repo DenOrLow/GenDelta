@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      weapon icon 1_0: -4859734401282285402
+      weapon icon 1_1: 4232321634339687647
+      weapon icon 1_2: -2430652196941348809
+      weapon icon 1_3: 2338028398626485250
+      weapon icon 1_4: 4511601927963061704
+      weapon icon 1_5: 7133301116587241261
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

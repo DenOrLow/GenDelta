@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      level 1 button hover_0: -8101853711538757888
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

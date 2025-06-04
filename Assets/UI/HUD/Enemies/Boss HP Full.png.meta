@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Boss HP Full_0: 2057859030057265907
+      Boss HP Full_1: 1189083844052360432
+      Boss HP Full_2: 1480714259669221699
+      Boss HP Full_3: -1439721634649731793
+      Boss HP Full_4: -6065018920964188347
+      Boss HP Full_5: 8546506358405794474
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

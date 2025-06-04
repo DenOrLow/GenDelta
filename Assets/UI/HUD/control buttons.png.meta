@@ -1047,7 +1047,44 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      control buttons_0: -1043600282928978600
+      control buttons_1: -1021383250451499841
+      control buttons_10: -4935700260265598729
+      control buttons_11: 7344896022463833830
+      control buttons_12: -4243079713960135741
+      control buttons_13: 703194723803927863
+      control buttons_14: -5125776093678983530
+      control buttons_15: 7581640072058999036
+      control buttons_16: 54043952473790521
+      control buttons_17: 1083235376777656862
+      control buttons_18: -3231182674575237548
+      control buttons_19: -5647847233386243564
+      control buttons_2: 4066632899357364613
+      control buttons_20: -2400270784721446369
+      control buttons_21: -5616800234332163345
+      control buttons_22: -1731185999300090839
+      control buttons_23: -4850327004500096848
+      control buttons_24: -2227661597653653050
+      control buttons_25: 8340676007665637910
+      control buttons_26: 1572374768307084892
+      control buttons_27: 2432105536545971731
+      control buttons_28: 4841696094835236568
+      control buttons_29: 1088054506483736830
+      control buttons_3: -426974548904603846
+      control buttons_30: -3049470483119181338
+      control buttons_31: 8565847961541933785
+      control buttons_32: -4036558660099636718
+      control buttons_33: 3073413289886123136
+      control buttons_34: -5509036235949648626
+      control buttons_35: 2271340905429619933
+      control buttons_36: 2000242092446160615
+      control buttons_4: 4338042803685633346
+      control buttons_5: 295220698783821192
+      control buttons_6: 5446824583573003264
+      control buttons_7: 6852339104596757787
+      control buttons_8: 6240468315016141748
+      control buttons_9: 6966523026255236674
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Boss HP damage 2_0: 6412148332486447365
+      Boss HP damage 2_1: 2802395813293626826
+      Boss HP damage 2_2: -7556015193406124792
+      Boss HP damage 2_3: -5568825326444314757
+      Boss HP damage 2_4: -8399835024695944193
+      Boss HP damage 2_5: -671679572219892054
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
