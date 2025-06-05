@@ -133,9 +133,9 @@ MonoBehaviour:
   ReloadStopAnimationParameter: 
   WeaponAngleAnimationParameter: 
   WeaponAngleRelativeAnimationParameter: 
-  WeaponStartMMFeedback: {fileID: 3566937970946606232}
-  WeaponUsedMMFeedback: {fileID: 8786310185222332611}
-  WeaponStopMMFeedback: {fileID: 7113364668919303615}
+  WeaponStartMMFeedback: {fileID: 0}
+  WeaponUsedMMFeedback: {fileID: 0}
+  WeaponStopMMFeedback: {fileID: 0}
   WeaponReloadMMFeedback: {fileID: 0}
   WeaponReloadNeededMMFeedback: {fileID: 0}
   WeaponOnHitFeedback: {fileID: 0}
@@ -231,7 +231,7 @@ MonoBehaviour:
   LaserMaxDistance: 20
   LaserCollisionMask:
     serializedVersion: 2
-    m_Bits: 268708129
+    m_Bits: 268708096
   LaserWidth: {x: 0.1, y: 0.1}
   LaserMaterial: {fileID: 2100000, guid: 20e8a0fa6dce64c44a2bb6b8bce05426, type: 2}
 --- !u!1 &1476511920462106

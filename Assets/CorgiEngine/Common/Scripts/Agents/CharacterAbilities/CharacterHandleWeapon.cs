@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections;
 using MoreMountains.Tools;
+using UnityEngine.UI;
 
 namespace MoreMountains.CorgiEngine
 {	
@@ -21,6 +22,21 @@ namespace MoreMountains.CorgiEngine
 		/// the initial weapon owned by the character
 		[Tooltip("the initial weapon owned by the character")]
 		public Weapon InitialWeapon;
+		public Weapon SecondWeapon;
+		public Weapon ThirdWeapon;
+		public Weapon FourthWeapon;
+		public Weapon FifthWeapon;
+
+		public Image WeaponIcon;
+		public Image ProgressBar;
+		//public Sprite FirstIcon;
+		//public Sprite SecondIcon;
+		//public Sprite ThirdIcon;
+		//public Sprite FourthIcon;
+		//public Sprite FifthIcon;
+
+		public Text ammoCount;
+
 		/// if this is set to true, the character can pick up PickableWeapons
 		[Tooltip("if this is set to true, the character can pick up PickableWeapons")]
 		public bool CanPickupWeapons = true;
@@ -80,7 +96,6 @@ namespace MoreMountains.CorgiEngine
         
 		[Header("Debug")]
 		/// returns the current equipped weapon
-		[MMReadOnly]
 		[Tooltip("returns the current equipped weapon")]
 		public Weapon CurrentWeapon;
 
@@ -150,7 +165,33 @@ namespace MoreMountains.CorgiEngine
 			HandleBuffer();
 			HandleFacingDirection();
 			HandleWeaponStop();
-		}
+
+			ammoCount.text = CurrentWeapon.CurrentAmmoLoaded + "/" + CurrentWeapon.MagazineSize;
+			ProgressBar.fillAmount = (float)CurrentWeapon.CurrentAmmoLoaded / CurrentWeapon.MagazineSize;
+
+
+            if (Input.GetKeyDown(KeyCode.Q)) 
+			{
+                ChangeWeapon(InitialWeapon, null);
+            }
+            if (Input.GetKeyDown(KeyCode.T))
+            {
+                ChangeWeapon(SecondWeapon, null);
+            }
+            if (Input.GetKeyDown(KeyCode.Y))
+            {
+                ChangeWeapon(ThirdWeapon, null);
+            }
+            if (Input.GetKeyDown(KeyCode.U))
+            {
+                ChangeWeapon(FourthWeapon, null);
+            }
+            if (Input.GetKeyDown(KeyCode.I))
+            {
+                ChangeWeapon(FifthWeapon, null);
+            }
+
+        }
 
 		/// <summary>
 		/// Checks for state changes to trigger stop feedbacks

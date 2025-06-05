@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using MoreMountains.Tools;
+using UnityEngine.UI;
 
 namespace MoreMountains.CorgiEngine
 {	
@@ -107,10 +108,16 @@ namespace MoreMountains.CorgiEngine
 		protected const string _dashingAnimationParameterName = "Dashing";
 		protected int _dashingAnimationParameter;
 
-		/// <summary>
-		/// Initializes our aim instance
-		/// </summary>
-		protected override void Initialization()
+
+        public Image AbilityImage;          // Ссылка на Image заднего фона
+        public Sprite AbilityCooldown;
+        public Sprite AbilityNormal;
+        public Text Cooldown;
+        private float _cooldown;
+        /// <summary>
+        /// Initializes our aim instance
+        /// </summary>
+        protected override void Initialization()
 		{
 			base.Initialization();
 			Aim.Initialization();
@@ -136,8 +143,20 @@ namespace MoreMountains.CorgiEngine
 		{
 			base.ProcessAbility();
 
-			// If the character is dashing, we cancel the gravity
-			if (_movement.CurrentState == CharacterStates.MovementStates.Dashing) 
+            if (Time.time < _lastDashAt + DashCooldown)
+            {
+                AbilityImage.sprite = AbilityCooldown;
+                _cooldown = Mathf.Clamp(DashCooldown - (Time.time - _lastDashAt), 0, DashCooldown);
+                Cooldown.text = _cooldown.ToString("F2");
+            }
+            else
+            {
+                AbilityImage.sprite = AbilityNormal;
+                Cooldown.text = "";
+            }
+
+            // If the character is dashing, we cancel the gravity
+            if (_movement.CurrentState == CharacterStates.MovementStates.Dashing) 
 			{
 				_controller.GravityActive(false);
 			}
