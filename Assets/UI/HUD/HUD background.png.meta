@@ -1,0 +1,1817 @@
+fileFormatVersion: 2
+guid: f1c59e42290b7664faa269681bdfa31d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8485717500460087094
+    second: HUD background_0
+  - first:
+      213: 6754997859382203878
+    second: HUD background_1
+  - first:
+      213: -518104437067245557
+    second: HUD background_2
+  - first:
+      213: -6686298472435415288
+    second: HUD background_3
+  - first:
+      213: 7474069542718563444
+    second: HUD background_4
+  - first:
+      213: -5729131515479443157
+    second: HUD background_5
+  - first:
+      213: 2714170047954071066
+    second: HUD background_6
+  - first:
+      213: -5289988934216287056
+    second: HUD background_7
+  - first:
+      213: 6318090444322983300
+    second: HUD background_8
+  - first:
+      213: 7013931248112703286
+    second: HUD background_9
+  - first:
+      213: 941651098382758182
+    second: HUD background_10
+  - first:
+      213: -1556166571336656976
+    second: HUD background_11
+  - first:
+      213: 5111756040983362887
+    second: HUD background_12
+  - first:
+      213: 8698110496072223746
+    second: HUD background_13
+  - first:
+      213: 336882162739313925
+    second: HUD background_14
+  - first:
+      213: -6667803067158161968
+    second: HUD background_15
+  - first:
+      213: 5185636168516946921
+    second: HUD background_16
+  - first:
+      213: -6264462994214005189
+    second: HUD background_17
+  - first:
+      213: 7117628263180858348
+    second: HUD background_18
+  - first:
+      213: 77504153294649986
+    second: HUD background_19
+  - first:
+      213: 5274941681756128776
+    second: HUD background_20
+  - first:
+      213: 7652596808807127645
+    second: HUD background_21
+  - first:
+      213: 5824294135570649245
+    second: HUD background_22
+  - first:
+      213: -3985066666695297791
+    second: HUD background_23
+  - first:
+      213: 6731735555341280125
+    second: HUD background_24
+  - first:
+      213: 8435517715931407584
+    second: HUD background_25
+  - first:
+      213: 4936451299889865383
+    second: HUD background_26
+  - first:
+      213: -7370048057823821004
+    second: HUD background_27
+  - first:
+      213: -385360725121519984
+    second: HUD background_28
+  - first:
+      213: -4765163641247284446
+    second: HUD background_29
+  - first:
+      213: 4536289131802698109
+    second: HUD background_30
+  - first:
+      213: -1752915016382086850
+    second: HUD background_31
+  - first:
+      213: 8244660559018396563
+    second: HUD background_32
+  - first:
+      213: 5208392237123728365
+    second: HUD background_33
+  - first:
+      213: 837414501447908528
+    second: HUD background_34
+  - first:
+      213: 5451344614971139895
+    second: HUD background_35
+  - first:
+      213: 3307938783868606048
+    second: HUD background_36
+  - first:
+      213: 4481029553673282945
+    second: HUD background_37
+  - first:
+      213: 3738493726015858461
+    second: HUD background_38
+  - first:
+      213: -5424126693793734565
+    second: HUD background_39
+  - first:
+      213: 5078848439098631134
+    second: HUD background_40
+  - first:
+      213: -2990761706172971170
+    second: HUD background_41
+  - first:
+      213: 7792419693454793145
+    second: HUD background_42
+  - first:
+      213: 4882921561097350393
+    second: HUD background_43
+  - first:
+      213: 5923316348078937593
+    second: HUD background_44
+  - first:
+      213: -301042196584706161
+    second: HUD background_45
+  - first:
+      213: 2818095613412490746
+    second: HUD background_46
+  - first:
+      213: 5331013564190085853
+    second: HUD background_47
+  - first:
+      213: 4341064043907666056
+    second: HUD background_48
+  - first:
+      213: -9695135724455559
+    second: HUD background_49
+  - first:
+      213: 4076775814521806192
+    second: HUD background_50
+  - first:
+      213: -5632274438585364952
+    second: HUD background_51
+  - first:
+      213: 1505794686343949780
+    second: HUD background_52
+  - first:
+      213: -6724604638392488575
+    second: HUD background_53
+  - first:
+      213: -8529124175274525894
+    second: HUD background_54
+  - first:
+      213: 8479994056866132264
+    second: HUD background_55
+  - first:
+      213: -4651528538160223533
+    second: HUD background_56
+  - first:
+      213: 3701373890792501840
+    second: HUD background_57
+  - first:
+      213: 7230561841257159232
+    second: HUD background_58
+  - first:
+      213: -6737319333287333189
+    second: HUD background_59
+  - first:
+      213: -6531601537709407259
+    second: HUD background_60
+  - first:
+      213: -6216466599667496904
+    second: HUD background_61
+  - first:
+      213: -2047501249243468699
+    second: HUD background_62
+  - first:
+      213: -7027379948855656189
+    second: HUD background_63
+  - first:
+      213: 8982247210128238104
+    second: HUD background_64
+  - first:
+      213: -7055246010924364712
+    second: HUD background_65
+  - first:
+      213: -2395050867911590511
+    second: HUD background_66
+  - first:
+      213: -1861164804043375533
+    second: HUD background_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HUD background_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2127
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8c2c084ecac3a80800000000000000
+      internalID: -8485717500460087094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2127
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5100b73c29ebd50800000000000000
+      internalID: 6754997859382203878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2126
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b089d0072c25fc8f0800000000000000
+      internalID: -518104437067245557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2126
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807004007fe7533a0800000000000000
+      internalID: -6686298472435415288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2126
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4746e4856aa39b760800000000000000
+      internalID: 7474069542718563444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2127
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b293a5cad390e70b0800000000000000
+      internalID: -5729131515479443157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2126
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eae40474baaa520800000000000000
+      internalID: 2714170047954071066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2122
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc7a46871f2696b0800000000000000
+      internalID: -5289988934216287056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2126
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d49a0d8cd5ea750800000000000000
+      internalID: 6318090444322983300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2126
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63715ca0f4d765160800000000000000
+      internalID: 7013931248112703286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_10
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2126
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621f5755faa611d00800000000000000
+      internalID: 941651098382758182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2126
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b714209fb2676ae0800000000000000
+      internalID: -1556166571336656976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2126
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d3549390b90f640800000000000000
+      internalID: 5111756040983362887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2126
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c4b7f5965e5b870800000000000000
+      internalID: 8698110496072223746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_14
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 2122
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dfd39ca88dca400800000000000000
+      internalID: 336882162739313925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_15
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 2126
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d517cd10743773a0800000000000000
+      internalID: -6667803067158161968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_16
+      rect:
+        serializedVersion: 2
+        x: 3722
+        y: 2126
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebcedede9417f740800000000000000
+      internalID: 5185636168516946921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_17
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 2127
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b365b49e8182019a0800000000000000
+      internalID: -6264462994214005189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_18
+      rect:
+        serializedVersion: 2
+        x: 3749
+        y: 2127
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3fc2ec135e6c260800000000000000
+      internalID: 7117628263180858348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_19
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 2126
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28abeb5ed99531100800000000000000
+      internalID: 77504153294649986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_20
+      rect:
+        serializedVersion: 2
+        x: 3771
+        y: 2126
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806c9fff28b543940800000000000000
+      internalID: 5274941681756128776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_21
+      rect:
+        serializedVersion: 2
+        x: 3782
+        y: 2126
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a9c3e904c733a60800000000000000
+      internalID: 7652596808807127645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1935
+        width: 179
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90541a68ac04d050800000000000000
+      internalID: 5824294135570649245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2099
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105706dfaf232b8c0800000000000000
+      internalID: -3985066666695297791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_24
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2099
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73ebf142ddeb6d50800000000000000
+      internalID: 6731735555341280125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_25
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2099
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e42b9a5baaf01570800000000000000
+      internalID: 8435517715931407584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_26
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 1935
+        width: 179
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a263f48d4cc18440800000000000000
+      internalID: 4936451299889865383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 715
+        width: 95
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4338adfe65458b990800000000000000
+      internalID: -7370048057823821004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_28
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 715
+        width: 115
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eaeb4567ce6aaf0800000000000000
+      internalID: -385360725121519984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 46
+        width: 179
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22349da4aecbeddb0800000000000000
+      internalID: -4765163641247284446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_30
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 46
+        width: 179
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71a09b5ee224fe30800000000000000
+      internalID: 4536289131802698109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_31
+      rect:
+        serializedVersion: 2
+        x: 3806
+        y: 206
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31091774156ca7e0800000000000000
+      internalID: -1752915016382086850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_32
+      rect:
+        serializedVersion: 2
+        x: 3807
+        y: 216
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b07f9a81bea6270800000000000000
+      internalID: 8244660559018396563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_33
+      rect:
+        serializedVersion: 2
+        x: 3802
+        y: 168
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de379a8f42de74840800000000000000
+      internalID: 5208392237123728365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_34
+      rect:
+        serializedVersion: 2
+        x: 3807
+        y: 184
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc30906d081f9b00800000000000000
+      internalID: 837414501447908528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 169
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737e79b7b0117ab40800000000000000
+      internalID: 5451344614971139895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 156
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066d9373cc828ed20800000000000000
+      internalID: 3307938783868606048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 144
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18529b633a0df2e30800000000000000
+      internalID: 4481029553673282945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_38
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 135
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17a3368c3cc1e330800000000000000
+      internalID: 3738493726015858461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_39
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 121
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50e5bf9281a9b4b0800000000000000
+      internalID: -5424126693793734565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_40
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 109
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed365881fb1bb7640800000000000000
+      internalID: 5078848439098631134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_41
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 98
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5708bfe21eae76d0800000000000000
+      internalID: -2990761706172971170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_42
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 80
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b99129dc6c342c60800000000000000
+      internalID: 7792419693454793145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_43
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 86
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcad4bf94f93c340800000000000000
+      internalID: 4882921561097350393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 70
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f55283e5d8d33250800000000000000
+      internalID: 5923316348078937593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_45
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 58
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f4a2a97bb72dbf0800000000000000
+      internalID: -301042196584706161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_46
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 48
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdb98c8703eb1720800000000000000
+      internalID: 2818095613412490746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_47
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 35
+        width: 2308
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2d65a77909bf940800000000000000
+      internalID: 5331013564190085853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_48
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 35
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880565c7fbe8e3c30800000000000000
+      internalID: 4341064043907666056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_49
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 35
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979381f435e8ddff0800000000000000
+      internalID: -9695135724455559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_50
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 15
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dd97de00e939830800000000000000
+      internalID: 4076775814521806192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_51
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 14
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e4b9a3d3426d1b0800000000000000
+      internalID: -5632274438585364952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_52
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 15
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dda3380a48a5e410800000000000000
+      internalID: 1505794686343949780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 14
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18deba9b5b76da2a0800000000000000
+      internalID: -6724604638392488575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_54
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 14
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bb09770c672a980800000000000000
+      internalID: -8529124175274525894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_55
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 14
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821fde07aadfea570800000000000000
+      internalID: 8479994056866132264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_56
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 10
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da2e5c7073727fb0800000000000000
+      internalID: -4651528538160223533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_57
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 15
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052b79561fbed5330800000000000000
+      internalID: 3701373890792501840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_58
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 14
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a90aa7fad185460800000000000000
+      internalID: 7230561841257159232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_59
+      rect:
+        serializedVersion: 2
+        x: 3692
+        y: 14
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2790123cb3082a0800000000000000
+      internalID: -6737319333287333189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_60
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 15
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e38f62e1071b55a0800000000000000
+      internalID: -6531601537709407259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_61
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 14
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8380db8509caab9a0800000000000000
+      internalID: -6216466599667496904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_62
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 14
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56caca14670d593e0800000000000000
+      internalID: -2047501249243468699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_63
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 14
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30181ce4b2bb97e90800000000000000
+      internalID: -7027379948855656189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_64
+      rect:
+        serializedVersion: 2
+        x: 3749
+        y: 15
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816ef646f3a57ac70800000000000000
+      internalID: 8982247210128238104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_65
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 14
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c8cd3222bb61e90800000000000000
+      internalID: -7055246010924364712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_66
+      rect:
+        serializedVersion: 2
+        x: 3771
+        y: 14
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d7327dce113ced0800000000000000
+      internalID: -2395050867911590511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD background_67
+      rect:
+        serializedVersion: 2
+        x: 3782
+        y: 14
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cf88ab870db26e0800000000000000
+      internalID: -1861164804043375533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
