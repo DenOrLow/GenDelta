@@ -46,7 +46,7 @@ namespace MoreMountains.CorgiEngine
             if (Time.time < _lastHookTime + HookCooldownDuration)
             {
                 AbilityImage.sprite = AbilityCooldown;
-                _cooldown = Mathf.Clamp(1 - (Time.time - _lastHookTime), 0, 1);
+                _cooldown = Mathf.Clamp(HookCooldownDuration - (Time.time - _lastHookTime), 0, HookCooldownDuration);
                 Cooldown.text = _cooldown.ToString("F2");
             }
             else
