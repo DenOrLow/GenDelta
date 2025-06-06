@@ -4782,7 +4782,7 @@ GameObject:
   - component: {fileID: 114000010078180980}
   - component: {fileID: 114191819752502978}
   m_Layer: 0
-  m_Name: RetroEnemyMachineGun
+  m_Name: RetroEnemyMachineGun 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4855,7 +4855,7 @@ MonoBehaviour:
   InitializeOnStart: 0
   DelayBeforeUse: 0
   DelayBeforeUseReleaseInterruption: 1
-  TimeBetweenUses: 0.2
+  TimeBetweenUses: 0.75
   TimeBetweenUsesReleaseInterruption: 1
   CooldownDuration: 0
   UseBurstMode: 0
@@ -4901,9 +4901,9 @@ MonoBehaviour:
   ReloadStopAnimationParameter: 
   WeaponAngleAnimationParameter: 
   WeaponAngleRelativeAnimationParameter: 
-  WeaponStartMMFeedback: {fileID: 5432166076431232499}
-  WeaponUsedMMFeedback: {fileID: 7133780308014939554}
-  WeaponStopMMFeedback: {fileID: 4297248110479992560}
+  WeaponStartMMFeedback: {fileID: 0}
+  WeaponUsedMMFeedback: {fileID: 0}
+  WeaponStopMMFeedback: {fileID: 0}
   WeaponReloadMMFeedback: {fileID: 0}
   WeaponReloadNeededMMFeedback: {fileID: 0}
   WeaponOnHitFeedback: {fileID: 0}
@@ -4979,7 +4979,7 @@ MonoBehaviour:
   MutualizeWaitingPools: 0
   NestWaitingPool: 1
   NestUnderThis: 0
-  GameObjectToPool: {fileID: 100002, guid: 7f4bb7f9537ba4978b4751fc618bc3f5, type: 3}
+  GameObjectToPool: {fileID: 100002, guid: d4a23c2239cb5144aba78402ed900f10, type: 3}
   PoolSize: 40
   PoolCanExpand: 1
 --- !u!1 &1000012097833382
