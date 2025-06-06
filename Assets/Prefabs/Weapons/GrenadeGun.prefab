@@ -62,7 +62,7 @@ MonoBehaviour:
   MaximumAngle: 180
   IgnoreSlopeRotation: 0
   IgnoreDownWhenGrounded: 0
-  Reticle: {fileID: 3330578983041874411, guid: ec5ce93545a14d944822a168b1da2e01, type: 3}
+  Reticle: {fileID: 3330578983041874411, guid: ee36fe2e19f355a498603a669d6dba4d, type: 3}
   DisplayReticle: 1
   ReticleDistance: 0
   ReticleZPosition: 0

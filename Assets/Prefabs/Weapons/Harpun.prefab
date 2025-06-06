@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 114000013241137692}
   - component: {fileID: 6638068051278303308}
   - component: {fileID: 5988047706415895233}
+  - component: {fileID: 3252170237302961380}
   m_Layer: 0
   m_Name: Harpun
   m_TagString: Untagged
@@ -55,7 +56,7 @@ MonoBehaviour:
   MaximumAngle: 180
   IgnoreSlopeRotation: 0
   IgnoreDownWhenGrounded: 0
-  Reticle: {fileID: 7165838709437139343, guid: 5eb439623a17e5944a359ce9e6380c56, type: 3}
+  Reticle: {fileID: 3330578983041874411, guid: 37dce03a43ef3ed41b40af69bea4dd22, type: 3}
   DisplayReticle: 1
   ReticleDistance: 0
   ReticleZPosition: 0
@@ -207,3 +208,23 @@ MonoBehaviour:
   GameObjectToPool: {fileID: 100002, guid: 2966225bed4b52e48b0b41090181a232, type: 3}
   PoolSize: 5
   PoolCanExpand: 1
+--- !u!114 &3252170237302961380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000010407495960}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03aaf62627f364a7d92d307729fe738d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RaycastOriginOffset: {x: 0, y: 0, z: 0}
+  LaserOriginOffset: {x: 0, y: 0, z: 0}
+  LaserMaxDistance: 50
+  LaserCollisionMask:
+    serializedVersion: 2
+    m_Bits: 268708096
+  LaserWidth: {x: 0.1, y: 0.1}
+  LaserMaterial: {fileID: 2100000, guid: 20e8a0fa6dce64c44a2bb6b8bce05426, type: 2}

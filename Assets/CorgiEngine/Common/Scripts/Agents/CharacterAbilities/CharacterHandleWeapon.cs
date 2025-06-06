@@ -175,22 +175,27 @@ namespace MoreMountains.CorgiEngine
                 if (Input.GetKeyDown(KeyCode.Q))
                 {
                     ChangeWeapon(InitialWeapon, null);
+                    WeaponIcon.sprite = FirstIcon;
                 }
                 if (Input.GetKeyDown(KeyCode.T))
                 {
                     ChangeWeapon(SecondWeapon, null);
+                    WeaponIcon.sprite = SecondIcon;
                 }
                 if (Input.GetKeyDown(KeyCode.Y))
                 {
                     ChangeWeapon(ThirdWeapon, null);
+                    WeaponIcon.sprite = ThirdIcon;
                 }
                 if (Input.GetKeyDown(KeyCode.U))
                 {
                     ChangeWeapon(FourthWeapon, null);
+                    WeaponIcon.sprite = FourthIcon;
                 }
                 if (Input.GetKeyDown(KeyCode.I))
                 {
                     ChangeWeapon(FifthWeapon, null);
+                    WeaponIcon.sprite = FifthIcon;
                 }
 
             }

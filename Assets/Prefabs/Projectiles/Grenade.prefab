@@ -187,7 +187,7 @@ MonoBehaviour:
   LifeTime: 0
   FaceDirection: 1
   FaceMovementDirection: 0
-  Speed: 1500
+  Speed: 1000
   Acceleration: 0
   Direction: {x: 0, y: 0, z: 0}
   DirectionCanBeChangedBySpawner: 1
@@ -214,7 +214,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TargetRenderer: {fileID: 0}
   TargetPoolableObject: {fileID: 0}
-  TimeBeforeExplosion: 1.5
+  TimeBeforeExplosion: 1
   ExplosionFeedback: {fileID: 0}
   ExplodeOnContact: 1
   ExplodeOnContactDetectionRadius: 1
