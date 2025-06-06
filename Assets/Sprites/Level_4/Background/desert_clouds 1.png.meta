@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      desert_clouds 1_0: 5660037504810348729
+      desert_clouds 1_1: -193872749810327364
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

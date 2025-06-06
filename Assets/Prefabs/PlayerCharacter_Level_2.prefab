@@ -970,6 +970,11 @@ MonoBehaviour:
     type: 3}
   WeaponIcon: {fileID: 0}
   ProgressBar: {fileID: 0}
+  FirstIcon: {fileID: 0}
+  SecondIcon: {fileID: 0}
+  ThirdIcon: {fileID: 0}
+  FourthIcon: {fileID: 0}
+  FifthIcon: {fileID: 0}
   ammoCount: {fileID: 0}
   CanPickupWeapons: 1
   WeaponAttachment: {fileID: 0}

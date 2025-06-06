@@ -1809,7 +1809,75 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HUD background_0: -8485717500460087094
+      HUD background_1: 6754997859382203878
+      HUD background_10: 941651098382758182
+      HUD background_11: -1556166571336656976
+      HUD background_12: 5111756040983362887
+      HUD background_13: 8698110496072223746
+      HUD background_14: 336882162739313925
+      HUD background_15: -6667803067158161968
+      HUD background_16: 5185636168516946921
+      HUD background_17: -6264462994214005189
+      HUD background_18: 7117628263180858348
+      HUD background_19: 77504153294649986
+      HUD background_2: -518104437067245557
+      HUD background_20: 5274941681756128776
+      HUD background_21: 7652596808807127645
+      HUD background_22: 5824294135570649245
+      HUD background_23: -3985066666695297791
+      HUD background_24: 6731735555341280125
+      HUD background_25: 8435517715931407584
+      HUD background_26: 4936451299889865383
+      HUD background_27: -7370048057823821004
+      HUD background_28: -385360725121519984
+      HUD background_29: -4765163641247284446
+      HUD background_3: -6686298472435415288
+      HUD background_30: 4536289131802698109
+      HUD background_31: -1752915016382086850
+      HUD background_32: 8244660559018396563
+      HUD background_33: 5208392237123728365
+      HUD background_34: 837414501447908528
+      HUD background_35: 5451344614971139895
+      HUD background_36: 3307938783868606048
+      HUD background_37: 4481029553673282945
+      HUD background_38: 3738493726015858461
+      HUD background_39: -5424126693793734565
+      HUD background_4: 7474069542718563444
+      HUD background_40: 5078848439098631134
+      HUD background_41: -2990761706172971170
+      HUD background_42: 7792419693454793145
+      HUD background_43: 4882921561097350393
+      HUD background_44: 5923316348078937593
+      HUD background_45: -301042196584706161
+      HUD background_46: 2818095613412490746
+      HUD background_47: 5331013564190085853
+      HUD background_48: 4341064043907666056
+      HUD background_49: -9695135724455559
+      HUD background_5: -5729131515479443157
+      HUD background_50: 4076775814521806192
+      HUD background_51: -5632274438585364952
+      HUD background_52: 1505794686343949780
+      HUD background_53: -6724604638392488575
+      HUD background_54: -8529124175274525894
+      HUD background_55: 8479994056866132264
+      HUD background_56: -4651528538160223533
+      HUD background_57: 3701373890792501840
+      HUD background_58: 7230561841257159232
+      HUD background_59: -6737319333287333189
+      HUD background_6: 2714170047954071066
+      HUD background_60: -6531601537709407259
+      HUD background_61: -6216466599667496904
+      HUD background_62: -2047501249243468699
+      HUD background_63: -7027379948855656189
+      HUD background_64: 8982247210128238104
+      HUD background_65: -7055246010924364712
+      HUD background_66: -2395050867911590511
+      HUD background_67: -1861164804043375533
+      HUD background_7: -5289988934216287056
+      HUD background_8: 6318090444322983300
+      HUD background_9: 7013931248112703286
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
